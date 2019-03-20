@@ -20,3 +20,6 @@ js:
   }
 
 ```
+
+## bindtap 和catchtap
+- bind事件绑定不会阻止冒泡事件向上冒泡，catch事件绑定可以阻止冒泡事件向上冒泡
